@@ -5,3 +5,4 @@ fast test
 fast test3
 fast test4
 fast test5
+cccccccccc -m ccccc
