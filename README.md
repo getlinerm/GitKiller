@@ -1,2 +1,2 @@
 # GitKiller
-killer
+killer is a hero.
